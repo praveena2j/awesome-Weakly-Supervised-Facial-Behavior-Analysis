@@ -58,9 +58,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 ## Emotion Classification <a id="seven-emotion"></a>
 
-#### 2024 <a id="2024-c"></a>
+#### Inexact Supervised Learning <a id="2024-c"></a>
 
-| Paper | Venue | Impact | Code |
+| Paper | Venue | Year | Code | Task
 | :---  | :---: | :---:  | :---:|
 | [MSSTNET: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2404.08433) | ICASSP | ⭐️ | N/A |
 | [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
