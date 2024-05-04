@@ -61,7 +61,7 @@ Please feel free to refer this repository for your FER research/development and 
 #### Inexact Supervised Learning <a id="2024-c"></a>
 
 | Paper | Venue | Year | Code | Task
-| :---  | :---: | :---:  | :---:|
+| :---  | :---: | :---:  | :---:| :---:|
 | [MSSTNET: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2404.08433) | ICASSP | ⭐️ | N/A |
 | [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
 | [MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Kawamura_MIDAS_Mixing_Ambiguous_Data_With_Soft_Labels_for_Dynamic_Facial_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
