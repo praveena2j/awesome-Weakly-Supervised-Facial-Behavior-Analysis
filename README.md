@@ -51,9 +51,9 @@ Please feel free to refer this repository for your FER research/development and 
 | Paper | Venue | Year | Code | Task
 | :---  | :---: | :---:  | :---:| :---:|
 | [Weakly supervised pain localization using multiple instance learning](https://ieeexplore.ieee.org/document/6553762) | FG | 2013 | N/A | Pain |
-| [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
-| [MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Kawamura_MIDAS_Mixing_Ambiguous_Data_With_Soft_Labels_for_Dynamic_Facial_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
-| [Hard Sample-aware Consistency for Low-resolution Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Hard_Sample-Aware_Consistency_for_Low-Resolution_Facial_Expression_Recognition_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
+| [Multi-instance Hidden Markov Model for facial expression recognition](https://ieeexplore.ieee.org/document/7163116) | FG | 2015 | N/A | Expression |
+| [Learning pain from au combinations: A weakly supervised approach via multiple instance learning](https://ieeexplore.ieee.org/document/8887215) | IEEE TAC | 2022 | N/A | Pain |
+| [Regularized Multi-Concept MIL for weakly-supervised facial behavior categorization](https://www.upf.edu/documents/8407855/8409953/RMCMIL_BMVC2014.pdf/70cf3e1b-e407-31a7-434f-bbad149c9966) | BMVC | 2014 | N/A | Expression
 
 #### 2023 <a id="2023-c"></a>
 
