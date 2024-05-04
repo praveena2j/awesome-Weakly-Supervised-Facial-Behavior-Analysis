@@ -3593,3 +3593,7 @@ Visual Scene-Aware Dialog](https://ieeexplore.ieee.org/document/10147255)
 | [MUSIC-AVQA](https://gewu-lab.github.io/MUSIC-AVQA/)          | 2022            | 9,288    | 150h+   | video with QA               | YouTube                 | Audio-visual question answering                               |
 | [AVSBench](https://arxiv.org/abs/2207.05042)         | 2022            | 5,356    | 14.8h+   | video         | YouTube                 | Audio-visual segmentation, sound localization                             |
 | [RAF](https://arxiv.org/abs/2403.18821) | 2024 | - | 95h+ | 3D environment | Recorded videos | Spatial Sound Generation |
+
+
+## Acknowledgements
+This repository is based on https://github.com/GeWu-Lab/awesome-audiovisual-learning
