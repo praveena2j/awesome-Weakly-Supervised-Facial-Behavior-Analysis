@@ -1,6 +1,19 @@
 # Awesome-Weakly Supervised Facial Behavior Analysis
 
-A curated list of weakly supervised learning methods for facial behavior analysis in both classification and regression tasks based on our survey paper "Weakly Supervised Learning for Facial Behavior Analysis: A Review". In addition, this repository includes basic datasets widely used in the framework of weakly supervised learning for facial behavior analysis. This 
+A curated list of weakly supervised learning methods for facial behavior analysis in both classification and regression tasks based on our survey paper "Weakly Supervised Learning for Facial Behavior Analysis: A Review". In addition, this repository includes basic datasets widely used in the framework of weakly supervised learning for facial behavior analysis. 
+
+[[arXiv]](https://arxiv.org/abs/2208.09579)
+
+If you find this work useful in your research, please consider citing our work :pencil: and giving a star :star2: :
+```bibtex
+@article{granger2021weakly,
+  title={Weakly supervised learning for facial behavior analysis: A review},
+  author={Granger, Eric and Cardinal, Patrick and others},
+  journal={arXiv preprint arXiv:2101.09858},
+  year={2021}
+}
+```
+
 
 👀 Update frequently!
 
