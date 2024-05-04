@@ -31,18 +31,8 @@ Please feel free to refer this repository for your FER research/development and 
   - [Inexact Supervised Learning](#2024-c)
   - [Incomplete Supervised Learning](#2023-c)
   - [Inaccurate Supervised Learning](#2022-c)
-  - [2021](#2021-c)
-  - [2020](#2020-c)
 
 - [Datasets](#datasets)
-
-- [Challenges](#challenges)
-  
-- [Tools](#tools)
-
-- [Remarkable Papers (2019~)](#previous)
-
-
 
 ## Emotion Classification <a id="seven-emotion"></a>
 
