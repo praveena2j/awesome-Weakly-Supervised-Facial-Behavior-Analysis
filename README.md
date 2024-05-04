@@ -56,7 +56,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 
-## 7-Emotion Classification <a id="seven-emotion"></a>
+## Emotion Classification <a id="seven-emotion"></a>
 
 #### 2024 <a id="2024-c"></a>
 
