@@ -22,15 +22,15 @@ If you find this work useful in your research, please consider citing our work :
 - [May. 2024] Create awesome-Weakly Supervised Facial Behavior Analysis repository.
 
 ## 👥 Contributing
-Please feel free to refer this repository for your FER research/development and send me [pull requests](https://github.com/kdhht2334/awesome-SOTA-FER/pulls) or email [Daeha Kim](kdhht5022@gmail.com) to add links.
+Please feel free to refer this repository for your FER research/development and send me [pull requests](https://github.com/kdhht2334/awesome-SOTA-FER/pulls) or email [Praveen](praveenrgp1988@gmail.com) to add links.
 
 
 ## Table of Contents
 
-- [7-Emotion Classification](#seven-emotion) <a id="seven-emotion"></a>
-  - [2024](#2024-c)
-  - [2023](#2023-c)
-  - [2022](#2022-c)
+- [Emotion Classification](#seven-emotion) <a id="seven-emotion"></a>
+  - [Inexact Supervised Learning](#2024-c)
+  - [Incomplete Supervised Learning](#2023-c)
+  - [Inaccurate Supervised Learning](#2022-c)
   - [2021](#2021-c)
   - [2020](#2020-c)
 
