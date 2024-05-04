@@ -3,7 +3,7 @@
 
 This is a curated list of weakly supervised learning methods and datasets for facial behavior analysis, based on our survey: < Weakly Supervised Learning for Facial Behavior Analysis: A Review>. This list will continue to be updated, please feel free to nominate good related works with Pull Requests!
 
-[[Website of Our Survey]](https://gewu-lab.github.io/audio-visual-learning), [[arXiv]](https://arxiv.org/abs/2208.09579)
+[[arXiv]](https://arxiv.org/abs/2101.09858)
 
 # Table of contents
 
