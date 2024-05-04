@@ -1,31 +1,12 @@
-# Awesome-SOTA-FER
+# Awesome-Weakly Supervised Facial Behavior Analysis
 
-A curated list of facial expression recognition in both 7-emotion classification and affect estimation. In addition, this repository includes basic studies on FER and recent datasets.
+A curated list of weakly supervised learning methods for facial behavior analysis in both classification and regression tasks. In addition, this repository includes basic datasets widely used in the framework of weakly supervised learning.
 
 👀 Update frequently!
 
-
-## 🛎 Notice
-⭐️: __Importance__ of FER method (from 1 to 3 points)
-
-🏆: __Mandatory (research) paper__ to understand FER technology.
-
-
 ## 📋 What's New
 
-- [Apr. 2024] Make `Multi-modal, EEG-based Emotion Recognition` section. Update papers.
-- [Mar. 2024] Update FG papers.
-- [Feb. 2024] Update AAAI and ArXiv papers.
-- [Jan. 2024] Update few ArXiv papers.
-- [Nov. 2023] Update NeurIPS 2023 / ArXiv papers.
-- [Oct. 2023] Update ACII 2023 paper / Fix details.
-- [Sep. 2023] Update BMVC 2023 paper / Add `Dataset` section.
-- [Aug. 2023] Update ICCV 2023 / ACM MM 2023 papers.
-- [Jul. 2023] Update AAAI 2023 paper.
-- [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
-- [Apr. 2023] Update CVPR 2023 papers.
-- [Mar. 2023] Initial update for FER papers.
-- [Mar. 2023] Create awesome-SOTA-FER repository.
+- [May. 2024] Create awesome-Weakly Supervised Facial Behavior Analysis repository.
 
 ## 👥 Contributing
 Please feel free to refer this repository for your FER research/development and send me [pull requests](https://github.com/kdhht2334/awesome-SOTA-FER/pulls) or email [Daeha Kim](kdhht5022@gmail.com) to add links.
