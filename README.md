@@ -8,7 +8,7 @@ If you find this work useful in your research, please consider citing our work :
 ```bibtex
 @article{granger2021weakly,
   title={Weakly supervised learning for facial behavior analysis: A review},
-  author={Granger, Eric and Cardinal, Patrick and others},
+  author={Praveen, R. Gnana and Cardinal, Patrick and Granger, Eric},
   journal={arXiv preprint arXiv:2101.09858},
   year={2021}
 }
