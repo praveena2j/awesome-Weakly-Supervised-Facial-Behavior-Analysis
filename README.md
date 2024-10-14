@@ -45,6 +45,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Learning pain from au combinations: A weakly supervised approach via multiple instance learning](https://ieeexplore.ieee.org/document/8887215) | IEEE TAC | 2022 | N/A | Pain |
 | [Regularized Multi-Concept MIL for weakly-supervised facial behavior categorization](https://www.upf.edu/documents/8407855/8409953/RMCMIL_BMVC2014.pdf/70cf3e1b-e407-31a7-434f-bbad149c9966) | BMVC | 2014 | N/A | Expression
 | [Lomo: Latent ordinal model for facial analysis in videos](https://ieeexplore.ieee.org/document/7780971) | CVPR | 2016 | N/A | Expression
+| [Identifying user-specific facial affects from spontaneous expressions with minimal annotation](https://ieeexplore.ieee.org/abstract/document/7308029) | IEEE TAC | 2016 | N/A | Expression
 
 
 
