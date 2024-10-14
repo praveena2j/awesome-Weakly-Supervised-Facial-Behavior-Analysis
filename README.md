@@ -86,6 +86,9 @@ Please feel free to refer this repository for your FER research/development and 
 | [MAN: Mining Ambiguity and Noise for Facial Expression Recognition in the Wild](https://www.sciencedirect.com/science/article/abs/pii/S0167865522003105) | PRL | 2022 | N/A | Expressions
 | [Learn from All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_24) | ECCV | 2022 | [Github](https://github.com/zyh-uaiaaaa/Erasing-Attention-Consistency) | Expressions
 | [Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression Recognition in the Wild](https://openaccess.thecvf.com/content_cvpr_2017/html/Li_Reliable_Crowdsourcing_and_CVPR_2017_paper.html) | CVPR | 2017 | N/A | Expressions
+| [Learning Facial Action Units From Web Images With Scalable Weakly Supervised Clustering](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhao_Learning_Facial_Action_CVPR_2018_paper.html) | CVPR | 2018 | [Github](https://github.com/zkl20061823/WSC) | AU
+| [Recognition of Action Units in the Wild with Deep Nets and a New Global-Local Loss](https://ieeexplore.ieee.org/document/8237690) | ICCV | 2017 | N/A | AU
+
 
 
 
