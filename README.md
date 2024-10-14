@@ -32,7 +32,7 @@ Please feel free to refer this repository for your FER research/development and 
   - [Incomplete Supervised Learning](#2023-c)
   - [Inaccurate Supervised Learning](#2022-c)
 
-- [Datasets](#datasets)
+- [AU Classification](#AU-detection)
 
 ## Emotion Classification <a id="seven-emotion"></a>
 
@@ -44,6 +44,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Multi-instance Hidden Markov Model for facial expression recognition](https://ieeexplore.ieee.org/document/7163116) | FG | 2015 | N/A | Expression |
 | [Learning pain from au combinations: A weakly supervised approach via multiple instance learning](https://ieeexplore.ieee.org/document/8887215) | IEEE TAC | 2022 | N/A | Pain |
 | [Regularized Multi-Concept MIL for weakly-supervised facial behavior categorization](https://www.upf.edu/documents/8407855/8409953/RMCMIL_BMVC2014.pdf/70cf3e1b-e407-31a7-434f-bbad149c9966) | BMVC | 2014 | N/A | Expression
+| [Lomo: Latent ordinal model for facial analysis in videos](https://ieeexplore.ieee.org/document/7780971) | CVPR | 2016 | N/A | Expression
 
 
 
