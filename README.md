@@ -32,6 +32,11 @@ Please feel free to refer this repository for your FER research/development and 
   - [Incomplete Supervised Learning](#2023-c)
   - [Inaccurate Supervised Learning](#2022-c)
 
+- [Regression](#emotion-intensity) <a id="emotion-intensity"></a>
+  - [Inexact Supervised Learning](#2025-b)
+  - [Incomplete Supervised Learning](#2025-c)
+  - [Inaccurate Supervised Learning](#2025-e)
+
 
 ## Classification <a id="seven-emotion"></a>
 
@@ -90,7 +95,14 @@ Please feel free to refer this repository for your FER research/development and 
 | [Recognition of Action Units in the Wild with Deep Nets and a New Global-Local Loss](https://ieeexplore.ieee.org/document/8237690) | ICCV | 2017 | N/A | AU
 
 
+## Regression <a id="emotion-intensity"></a>
 
+### Inexact Supervised Learning <a id="2025-b"></a>
+
+
+| Paper | Venue | Year | Code | Task
+| :---  | :---: | :---:  | :---:| :---:|
+| [Multi-Instance Dynamic Ordinal Random Fields for Weakly-Supervised Pain Intensity Estimation](https://link.springer.com/chapter/10.1007/978-3-319-54184-6_11) | ACCV | 2016 | N/A | Pain |
 
 
 
