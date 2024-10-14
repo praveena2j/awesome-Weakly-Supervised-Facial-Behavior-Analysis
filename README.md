@@ -36,7 +36,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 ## Emotion Classification <a id="seven-emotion"></a>
 
-#### Inexact Supervised Learning <a id="2024-c"></a>
+### Inexact Supervised Learning <a id="2024-c"></a>
 
 | Paper | Venue | Year | Code | Task
 | :---  | :---: | :---:  | :---:| :---:|
