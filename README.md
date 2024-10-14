@@ -20,6 +20,7 @@ If you find this work useful in your research, please consider citing our work :
 ## 📋 What's New
 
 - [May. 2024] Create awesome-Weakly Supervised Facial Behavior Analysis repository.
+- [Oct. 2024] Updated the list of papers.
 
 ## 👥 Contributing
 Please feel free to refer this repository for your FER research/development and send me [pull requests](https://github.com/kdhht2334/awesome-SOTA-FER/pulls) or email [Praveen](praveenrgp1988@gmail.com) to add links.
