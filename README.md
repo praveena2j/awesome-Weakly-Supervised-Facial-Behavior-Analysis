@@ -27,7 +27,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 ## Table of Contents
 
-- [Emotion Classification](#seven-emotion) <a id="seven-emotion"></a>
+- [Classification](#seven-emotion) <a id="seven-emotion"></a>
   - [Inexact Supervised Learning](#2024-c)
   - [Incomplete Supervised Learning](#2023-c)
   - [Inaccurate Supervised Learning](#2022-c)
@@ -50,8 +50,12 @@ Please feel free to refer this repository for your FER research/development and 
 | [Weakly supervised facial action unit recognition through adversarial training](https://ieeexplore.ieee.org/document/8578331) | CVPR | 2018 | N/A | AU
 | [Weakly Supervised Facial Action Unit Recognition With Domain Knowledge](https://ieeexplore.ieee.org/abstract/document/8472814) | IEEE TCYB | 2018 | N/A | AU
 | [Classifier Learning With Prior Probabilities for Facial Action Unit Recognition](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Classifier_Learning_With_CVPR_2018_paper.html) | CVPR | 2018 | N/A | AU
-| [Weakly Supervised Dual Learning for Facial Action Unit Recognition](https://ieeexplore.ieee.org/abstract/document/8712447) | IEEE TMM | 2019 | N/A | AU
 
 
+### Incomplete Supervised Learning <a id="2024-c"></a>
 
+| Paper | Venue | Year | Code | Task
+| :---  | :---: | :---:  | :---:| :---:|
+| [A Weakly Supervised learning technique for classifying facial expressions](https://www.sciencedirect.com/science/article/abs/pii/S0167865518304161) | PRL | 2019 | N/A | Expressions
+| [Towards Semi-Supervised Deep Facial Expression Recognition With an Adaptive Confidence Margin](https://ieeexplore.ieee.org/document/9880204) | CVPR | 2022 | [Ada-CM](https://github.com/hangyu94/Ada-CM) | Expressions
 
