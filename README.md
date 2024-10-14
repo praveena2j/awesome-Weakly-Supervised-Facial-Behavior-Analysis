@@ -35,7 +35,6 @@ Please feel free to refer this repository for your FER research/development and 
 - [Regression](#emotion-intensity) <a id="emotion-intensity"></a>
   - [Inexact Supervised Learning](#2025-b)
   - [Incomplete Supervised Learning](#2025-c)
-  - [Inaccurate Supervised Learning](#2025-e)
 
 
 ## Classification <a id="seven-emotion"></a>
@@ -99,10 +98,31 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Inexact Supervised Learning <a id="2025-b"></a>
 
-
 | Paper | Venue | Year | Code | Task
 | :---  | :---: | :---:  | :---:| :---:|
 | [Multi-Instance Dynamic Ordinal Random Fields for Weakly-Supervised Pain Intensity Estimation](https://link.springer.com/chapter/10.1007/978-3-319-54184-6_11) | ACCV | 2016 | N/A | Pain |
+| [Deep Weakly Supervised Domain Adaptation for Pain Localization in Videos](https://ieeexplore.ieee.org/abstract/document/9320216) | FG | 2020 | N/A | Pain |
+| [Deep domain adaptation with ordinal regression for pain assessment using weakly-labeled videos](https://www.sciencedirect.com/science/article/abs/pii/S026288562100072X) | IVC | 2021 | [Github](https://github.com/praveena2j/WSDAOR) | Pain |
+| [Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction](https://dl.acm.org/doi/abs/10.1145/3242969.3264981) | ACM ICMI | 2018 | N/A | Expression |
+| [Multi-Instance Dynamic Ordinal Random Fields for Weakly Supervised Facial Behavior Analysis](https://ieeexplore.ieee.org/abstract/document/8347018) | TIP | 2018 | N/A | AU |
+| [Bilateral Ordinal Relevance Multi-Instance Regression for Facial Action Unit Intensity Estimation](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.html) | CVPR | 2018 | N/A | AU |
+
+### Incomplete Supervised Learning <a id="2025-c"></a>
+
+| Paper | Venue | Year | Code | Task
+| :---  | :---: | :---:  | :---:| :---:|
+| [Facial Expression Intensity Estimation Using Ordinal Information](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.html) | CVPR | 2016 | N/A | Expressions
+| [Weakly-Supervised Deep Convolutional Neural Network Learning for Facial Action Unit Intensity Estimation](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Weakly-Supervised_Deep_Convolutional_CVPR_2018_paper.html) | CVPR | 2018 | N/A | AU
+| [Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.html) | CVPR | 2019 | N/A | AU
+| [Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.html) | ICCV | 2019 | N/A | AU
+| [Semi-Supervised Deep Neural Network for Joint Intensity Estimation of Multiple Facial Action Units](https://ieeexplore.ieee.org/abstract/document/8867879) | IEEE Access | 2019 | N/A | AU
+| [Deep Facial Action Unit Recognition and Intensity Estimation from Partially Labelled Data](https://ieeexplore.ieee.org/document/8705351) | IEEE TAFFC | 2021 | N/A | AU
+| [Semi-supervised Facial Action Unit Intensity Estimation with Contrastive Learning](https://openaccess.thecvf.com/content/ACCV2020/papers/Sanchez_Semi-supervised_Facial_Action_Unit_Intensity_Estimation_with_Contrastive_Learning_ACCV_2020_paper.pdf) | ACCV | 2020 | N/A | AU
+
+
+
+
+
 
 
 
